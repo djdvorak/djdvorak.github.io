@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: Data Insights
+description: Panning for informational nuggets
 image: assets/images/pic05.jpg
 ---
 
