@@ -3,8 +3,8 @@ title: David Dvorak
 subtitle: My Personal Blog
 email: 
 description: A personal blog and a place to display projects of mine.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://djdvorak.gitlab.io" # the base hostname & protocol for your site
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "https://djdvorak.github.io" # the base hostname & protocol for your site
 author:
 street_address: 
 city: Vancouver
