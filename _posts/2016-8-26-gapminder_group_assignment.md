@@ -20,7 +20,7 @@ Countries with higher per-capita GDP have higher life expectancies.
 
 As an overview let us consider how life expectancy varies as a function of per-capita GDP:
 
-![](https://djdvorak.github.io/_posts/gapminder_group_assignment_files/figure-html/unnamed-chunk-1-1.png)<!-- -->![](https://djdvorak.github.io/_posts/gapminder_group_assignment_files/figure-html/unnamed-chunk-1-2.png)<!-- -->
+![](https://djdvorak.github.io/assets/images/gapminder_group_assignment_files/figure-html/unnamed-chunk-1-1.png)<!-- -->![](https://djdvorak.github.io/assets/images/gapminder_group_assignment_files/figure-html/unnamed-chunk-1-2.png)<!-- -->
 
 The results of the linear regression are as follows:
 
@@ -48,25 +48,25 @@ The results of the linear regression are as follows:
 
 And the residuals look like:
 
-![](https://djdvorak.github.io/_posts/gapminder_group_assignment_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![](https://djdvorak.github.io/assets/images/gapminder_group_assignment_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
 
 As a result we can say that there is a clear linear relationship between life expectancy and the logarithm of per-capita GDP.
 
 To get a more clear picture about the relationship between life expectancy and per-capita GDP on different continents:
 
-![](https://djdvorak.github.io/_posts/gapminder_group_assignment_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](https://djdvorak.github.io/assets/images/gapminder_group_assignment_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 
 It seems that GDP has a logarithmic relationship with life expectancy.
 
 We can also look at how per-capita GDP and life expectancies have changed over time on each continent:
 
-![](https://djdvorak.github.io/_posts/gapminder_group_assignment_files/figure-html/unnamed-chunk-5-1.png)<!-- -->![](https://djdvorak.github.io/_posts/gapminder_group_assignment_files/figure-html/unnamed-chunk-5-2.png)<!-- -->
+![](https://djdvorak.github.io/assets/images/gapminder_group_assignment_files/figure-html/unnamed-chunk-5-1.png)<!-- -->![](https://djdvorak.github.io/assets/images/gapminder_group_assignment_files/figure-html/unnamed-chunk-5-2.png)<!-- -->
 
 Interestingly, life expectancies across continents appear to increase a faster rate than per-capita GDP.
 
 A follow-up question on the relationship between GDP and life expectancy is whether or not the rate of change of a country's life expectancy is impacted by the rate of change of its per-capita GDP. 
 
-![](https://djdvorak.github.io/_posts/gapminder_group_assignment_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
+![](https://djdvorak.github.io/assets/images/gapminder_group_assignment_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
 
 The scatterplot includes linear regression lines for each continent and the fitting results are as follows:
 
