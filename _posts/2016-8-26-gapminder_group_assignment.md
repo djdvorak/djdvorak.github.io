@@ -20,7 +20,7 @@ Countries with higher per-capita GDP have higher life expectancies.
 
 As an overview let us consider how life expectancy varies as a function of per-capita GDP:
 
-![](assets/documents/gapminder_group_assignment_files/figure-html/unnamed-chunk-1-1.png)<!-- -->[](gapminder_group_assignment_files/figure-html/unnamed-chunk-1-2.png)<!-- -->
+![](https://djdvorak.github.io/assets/documents/gapminder_group_assignment_files/figure-html/unnamed-chunk-1-1.png)<!-- -->![](https://djdvorak.github.io/assets/documents/gapminder_group_assignment_files/figure-html/unnamed-chunk-1-2.png)<!-- -->
 
 The results of the linear regression are as follows:
 
