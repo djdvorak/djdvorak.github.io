@@ -1,3 +1,10 @@
+---
+layout: post
+title: Gapminder
+description: Group Project
+image: assets/images/pic03.jpg
+---
+
 # Gapminder Group Project
 David Dvorak, Elton Chan, Fanli Si, Jingyang Liu  
 November 23, 2016  
