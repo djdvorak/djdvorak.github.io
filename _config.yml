@@ -5,7 +5,7 @@ email: dvorak.david.j@gmail.com
 description: A place for me to showcase my work<br /> and share my thoughts.
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://djdvorak.github.io" # the base hostname & protocol for your site
-author:
+author: 
 street_address: 
 city: Vancouver
 state: BC
